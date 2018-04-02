@@ -23,8 +23,6 @@ class FixtureCollector(object):
 
 
 def register(linter):
-    sys.path.insert(0, '.')
-
     old_out = sys.stdout
     old_err = sys.stderr
     sys.stdout = open(os.devnull, 'w')
