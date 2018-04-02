@@ -1,3 +1,4 @@
+# pylint: skip-file
 """
 Additional Pylint checkers for pytest.
 """
