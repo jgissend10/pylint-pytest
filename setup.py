@@ -7,7 +7,7 @@ setup(
     long_description=open('README.md').read(),
     author='James Gissendaner',
     author_email='jamestgissendanerjr@gmail.com',
-    version='0.10',
+    version='0.20',
     download_url='https://github.com/jgissend10/pylint-pytest.git',
     install_requires=[
         'pylint',
